@@ -5,6 +5,7 @@
 | Assam | [Visit Assam CEO](https://ceoassam.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S03)|
 | Bihar | [Visit Bihar CEO](https://ceobihar.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S04)|
 | Chhatisgarh | [Visit Chhatisgarh CEO](https://ceochhattisgarh.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S26)|
+
 | Goa | [Visit Goa CEO](https://ceogoa.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S05)|
 | Gujrat | [Visit Gujrat CEO](https://ceo.gujarat.gov.in/Index) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S06)|
 | Haryana | [Visit Haryana CEO](https://ceoharyana.gov.in) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S07)|
@@ -28,5 +29,16 @@
 | Uttarakhand | [Visit Uttarakhand CEO](https://ceo.uk.gov.in/)|Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S28)|
 | Uttar Pradesh | [Visit Uttar Pradesh CEO](https://ceouttarpradesh.nic.in/)|Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S24)|
 | West Bengal | [Visit West Bengal CEO](https://ceowestbengal.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S25)|
+
+| Union Territory | Link | Status | Electoral Roll Site |
+| --- | --- | --- | --- |
+| Andaman & Nicobar Islands | [Visit Andaman & Nicobar Islands CEO](https://www.ceoandaman.nic.in/election/index.php) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U01)|
+| Chandigarh | [Visit Chandigarh CEO](https://ceochandigarh.gov.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U02)|
+| Dadra & Nagar Haveli and Daman & Diu | [Visit Dadra & Nagar Haveli and Daman & Diu CEO](https://ceodaman.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U03)|
+| NCT OF Delhi | [Visit NCT OF Delhi CEO](https://www.ceodelhi.gov.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U05)|
+| Lakshadweep | [Visit Lakshadweep CEO](https://ceolakshadweep.gov.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U06)|
+| Puducherry | [Visit Puducherry CEO](https://ceopuducherry.py.gov.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U07)|
+| Jammu and Kashmir | [Visit Jammu and Kashmir CEO](https://ceojk.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U08)|
+| Ladakh | [Visit Ladakh CEO](https://ceo.ladakh.gov.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=U09)|
 
 
