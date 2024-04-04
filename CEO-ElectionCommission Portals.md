@@ -5,7 +5,6 @@
 | Assam | [Visit Assam CEO](https://ceoassam.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S03)|
 | Bihar | [Visit Bihar CEO](https://ceobihar.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S04)|
 | Chhatisgarh | [Visit Chhatisgarh CEO](https://ceochhattisgarh.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S26)|
-
 | Goa | [Visit Goa CEO](https://ceogoa.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S05)|
 | Gujrat | [Visit Gujrat CEO](https://ceo.gujarat.gov.in/Index) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S06)|
 | Haryana | [Visit Haryana CEO](https://ceoharyana.gov.in) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S07)|
