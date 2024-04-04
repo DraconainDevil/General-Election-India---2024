@@ -1,7 +1,7 @@
 # General-Election-India---2024
-Data Regarding General Elections In India - 2024
+Information Regarding General Elections In India - 2024
 
-# IMPORTANT Websites / Portals
+# Election Commission of India Websites / Portals
 [Voters Service Portal](https://voters.eci.gov.in/)
 
 [Election Commission of India](https://www.eci.gov.in/)
@@ -16,4 +16,4 @@ Data Regarding General Elections In India - 2024
 
 [Search Yourself in Electoral Roll](https://electoralsearch.eci.gov.in/)
 
-![CEO-ElectionCommission & Electoral Rolls - Portals - Statewise](https://github.com/DraconainDevil/General-Election-India-2024/blob/main/CEO-ElectionCommission%20Portals.md)
+![List of Cheif Electoral Officers Website & Electoral Rolls Portals - Statewise](https://github.com/DraconainDevil/General-Election-India-2024/blob/main/CEO-ElectionCommission%20Portals.md)
