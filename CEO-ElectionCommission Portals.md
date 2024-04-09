@@ -1,7 +1,7 @@
 | State | Link | Status | Electoral Roll Site |
 | --- | --- | --- | --- |
 | Andhra Pradesh | [Visit Andhra Pradesh CEO](https://ceoandhra.nic.in) |Active| [Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S01)|
-| Arunachal Pradesh | [Visit Arunachal Pradesh CEO](https://ceoarunachal.nic.in/) |Website is Down (4/4/2024)|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S02)|
+| Arunachal Pradesh | [Visit Arunachal Pradesh CEO](https://ceoarunachal.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S02)|
 | Assam | [Visit Assam CEO](https://ceoassam.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S03)|
 | Bihar | [Visit Bihar CEO](https://ceobihar.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S04)|
 | Chhatisgarh | [Visit Chhatisgarh CEO](https://ceochhattisgarh.nic.in/) |Active|[Electoral Roll](https://voters.eci.gov.in/download-eroll?stateCode=S26)|
