@@ -1,5 +1,6 @@
 # General-Election-India---2024
 Information Regarding General Elections In India - 2024
+[View Phasing Map](https://thunbergii.app.carto.com/map/32383f63-4a97-46f6-acc5-4ae9675bbb6b)
 
 # Election Commission of India Websites / Portals
 [Voters Service Portal](https://voters.eci.gov.in/)
